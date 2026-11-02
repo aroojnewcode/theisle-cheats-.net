@@ -8,7 +8,7 @@ export const en: Translations = {
   site: {
     name: 'The Isle Cheats',
     domain: 'theisle-cheats.net',
-    title: 'The Isle Cheats — ESP, Radar & Evrima Hacks for PC',
+    title: 'The Isle Cheats — ESP, Radar & Evrima Tools for PC',
     description:
       'The Isle cheats and hacks for Evrima on PC—player and dino ESP, nest radar, combat assist, stream proof and EAC-aware updates via NovaXware loader.',
     discord: DISCORD_URL,

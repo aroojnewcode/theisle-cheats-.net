@@ -52,7 +52,7 @@ export const PAGE_SEO_BY_LOCALE: Record<string, Record<string, { title: string; 
         'theisle-cheats.net은 PC용 The Isle 치트 티어, 가이드, 유틸리티를 제공합니다. 패치 후 빠른 로더 업데이트와 디스코드 중심 지원 철학을 소개합니다.',
     },
     '/forum/': {
-      title: 'The Isle 핵 포럼 — ESP·EAC·NovaXware Q&A',
+      title: 'The Isle 치트 포럼 — ESP·EAC·NovaXware Q&A',
       description:
         'The Isle 치트 커뮤니티: ESP·전투 어시스트 설정, Evrima 팁, EAC 패치 토론, NovaXware 로더 질문. theisle-cheats.net 가이드와 연결된 토론.',
     },

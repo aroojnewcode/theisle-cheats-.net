@@ -8,7 +8,7 @@ export const ko: DeepPartialTranslations = {
   site: {
     name: 'The Isle Cheats',
     domain: 'theisle-cheats.net',
-    title: 'The Isle 치트 — PC용 ESP, 레이더 및 Evrima 핵',
+    title: 'The Isle 치트 — PC용 ESP, 레이더 및 Evrima 도구',
     description:
       'PC용 The Isle Evrima 치트·핵—플레이어·공룡 ESP, 둥지 레이더, 전투 보조, 스트림 프루프, NovaXware 로더를 통한 EAC 대응 업데이트.',
     discord: DISCORD_URL,

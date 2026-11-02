@@ -8,7 +8,7 @@ export const th: DeepPartialTranslations = {
   site: {
     name: 'The Isle Cheats',
     domain: 'theisle-cheats.net',
-    title: 'The Isle Cheats — ESP เรดาร์และ Hacks Evrima สำหรับ PC',
+    title: 'The Isle Cheats — ESP เรดาร์และเครื่องมือ Evrima สำหรับ PC',
     description:
       'โกงและแฮก The Isle สำหรับ Evrima บน PC—ESP ผู้เล่นและไดโน เรดาร์รัง ตัวช่วยต่อสู้ stream proof และอัปเดตรองรับ EAC ผ่านโหลดเดอร์ NovaXware',
     discord: DISCORD_URL,
